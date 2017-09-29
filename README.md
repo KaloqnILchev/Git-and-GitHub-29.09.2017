@@ -7,3 +7,6 @@ We resolved the conflict!
 
 Repo Made for exercises
 We resolved the conflict again !
+
+New developer hired :D
+and New Conflict started
