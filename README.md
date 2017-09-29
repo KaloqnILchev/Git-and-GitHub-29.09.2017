@@ -3,4 +3,7 @@
 Repo Made for exercises
 We resolved the conflict!
 
-here we go again :D
+
+
+Repo Made for exercises
+We resolved the conflict again !
